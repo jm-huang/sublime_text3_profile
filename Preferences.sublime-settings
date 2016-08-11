@@ -1,0 +1,28 @@
+{
+	"added_words":
+	[
+		"para2vec",
+		"Jiaming"
+	],
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"draw_centered": true,
+	"fade_fold_buttons": false,
+	"font": "",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}

@@ -1,0 +1,7 @@
+{
+    "complete_parameters": true,
+    //"auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}],
+    "pep8_ignore":["W292","E302","W293", "E501", "E251", "E261", "W291"],
+    // "pep8":false,   
+    
+    }   
