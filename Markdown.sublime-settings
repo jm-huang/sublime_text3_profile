@@ -16,5 +16,6 @@
 	"save_on_focus_lost": true,
 	"word_wrap": true,
 	"wrap_width": 100,
-	"rulers":[80,100]
+	"rulers":[80,100],
+	"enable_mathjax": true
 }
