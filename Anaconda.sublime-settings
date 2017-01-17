@@ -1,6 +1,6 @@
 {
     // "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}],
-    "pep8_ignore":["W292","E302","W293", "E501", "E251", "E261", "W291", "E701", "E111", "E114", "E402", "E126"],
+    "pep8_ignore":["W292","E302","W293", "E501", "E251", "E261", "W291", "E701", "E111", "E114", "E402", "E126", "E128", "E124", "E266"],
     // "pep8":false,   
     // "python_interpreter": "C:/Anaconda2/python",
     "suppress_word_completions": true,
